@@ -1,0 +1,24 @@
+/*root-configuración predeterminada de colores de la página*/
+
+:root {
+    --principal: #f1a114;
+    --secundario: #ffc000;
+    --oscuro: #302f34;
+    --blanco: #ffffff;
+    --gris: #c2c5b5;
+    --verde: #038b37e1;
+    --rojo: #f00909f6;
+    --naranja: rgba(236, 134, 51, 0.959);
+    --orange: #ffa153;
+    --letra_h1: 30px;
+    --letra_h2: 25px;
+    --letra_h3: 20px;
+    --letra_h4: 17px;
+}
+
+
+/*Configuración principal de la página*/
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
